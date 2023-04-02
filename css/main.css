@@ -1,0 +1,17 @@
+/* CSS Document */
+body
+{   background-color: black;
+    background-image:url(/images/background.jpg);
+    background-size: 100% 100%;
+}
+
+#baner1
+{
+    width:1300;
+    height:200;
+    background-color:whitesmoke;
+    text-align:calc(650,100);
+
+    
+    background-image:url(/images/header.png)
+}
